@@ -1,6 +1,6 @@
 # Graduation_Project_Trials
 Before Running the Project Please Download the last Version of the landmarks Model at:
-[Dlib Models -DavisKing](https://github.com/davisking/dlib-models)
+[Dlib Models -DavisKing](https://github.com/davisking/dlib-models)  
 _It is recommended to download the GTX Versions_
 
 ### How to run:
